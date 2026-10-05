@@ -1,0 +1,13 @@
+{
+  "search_metadata": {"id": "news-search-1"},
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Startup launches neuromorphic sensor",
+      "link": "https://news.example/item",
+      "source": {"name": "Example News"},
+      "published_at": "2026-09-15T09:00:00Z",
+      "snippet": "A representative commercial event."
+    }
+  ]
+}

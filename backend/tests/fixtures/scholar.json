@@ -1,0 +1,17 @@
+{
+  "search_metadata": {"id": "scholar-search-1"},
+  "search_information": {"total_results": 1250},
+  "organic_results": [
+    {
+      "title": "Event-driven learning for spiking systems",
+      "result_id": "paper-1",
+      "link": "https://example.org/paper-1",
+      "snippet": "A representative paper.",
+      "publication_info": {
+        "summary": "A Researcher - Journal of Neuromorphic Systems, 2026",
+        "authors": [{"name": "A Researcher"}]
+      },
+      "inline_links": {"cited_by": {"total": 42, "cites_id": "42"}}
+    }
+  ]
+}

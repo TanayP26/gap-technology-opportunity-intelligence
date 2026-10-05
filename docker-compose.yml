@@ -1,0 +1,20 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: gap
+      POSTGRES_USER: gap
+      POSTGRES_PASSWORD: gap
+    ports:
+      - "5432:5432"
+    volumes:
+      - gap_pgdata:/var/lib/postgresql/data
+      - ./db:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U gap -d gap"]
+      interval: 3s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  gap_pgdata:

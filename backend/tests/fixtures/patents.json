@@ -1,0 +1,17 @@
+{
+  "search_metadata": {"id": "patent-search-1"},
+  "search_information": {"total_results": 430},
+  "organic_results": [
+    {
+      "title": "Neuromorphic processing device",
+      "patent_id": "patent/US123/en",
+      "patent_link": "https://patents.example/US123",
+      "publication_date": "2026-05-01",
+      "filing_date": "2025-02-01",
+      "priority_date": "2024-11-01",
+      "assignee": "Example Labs",
+      "inventor": "R Example",
+      "snippet": "A representative patent."
+    }
+  ]
+}

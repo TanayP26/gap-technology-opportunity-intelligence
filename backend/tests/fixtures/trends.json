@@ -1,0 +1,13 @@
+{
+  "search_metadata": {"id": "trends-search-1"},
+  "interest_over_time": {
+    "timeline_data": [
+      {"date": "Jan 2026", "timestamp": "1767225600", "values": [{"query": "Event-Based Vision", "value": "10", "extracted_value": 10}]},
+      {"date": "Feb 2026", "timestamp": "1769904000", "values": [{"query": "Event-Based Vision", "value": "12", "extracted_value": 12}]},
+      {"date": "Mar 2026", "timestamp": "1772323200", "values": [{"query": "Event-Based Vision", "value": "15", "extracted_value": 15}]},
+      {"date": "Apr 2026", "timestamp": "1775001600", "values": [{"query": "Event-Based Vision", "value": "18", "extracted_value": 18}]},
+      {"date": "May 2026", "timestamp": "1777593600", "values": [{"query": "Event-Based Vision", "value": "22", "extracted_value": 22}]},
+      {"date": "Jun 2026", "timestamp": "1780272000", "values": [{"query": "Event-Based Vision", "value": "25", "extracted_value": 25}]}
+    ]
+  }
+}

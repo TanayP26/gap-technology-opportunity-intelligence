@@ -1,0 +1,14 @@
+{
+  "search_metadata": {"id": "google-search-1"},
+  "search_information": {"total_results": 9500},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Neuromorphic platform",
+      "link": "https://company.example/product",
+      "source": "Example Company",
+      "date": "Sep 2026",
+      "snippet": "A representative market result."
+    }
+  ]
+}
